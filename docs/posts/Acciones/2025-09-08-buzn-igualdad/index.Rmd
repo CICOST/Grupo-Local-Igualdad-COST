@@ -4,7 +4,7 @@ date: 2025-07-24
 output: distill::distill_article
 ---
 <div style="display: flex; justify-content: space-between;">
-  <img src="foto1.jpeg" style="width: 40%;margin-right: 70px;">
+  <img src="foto1.jpeg" style="width: 40%;margin-right: 50px;">
   <img src="foto2.jpeg" style="width: 40%;">
 </div>
 
