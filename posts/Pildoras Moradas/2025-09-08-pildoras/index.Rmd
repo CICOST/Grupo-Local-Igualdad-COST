@@ -1,0 +1,13 @@
+---
+title: "Tubería que gotea y Suelo pegajoso"
+date: 2025-06-16
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="foto1.jpeg" style="width: 48%;">
+  <img src="foto2.jpeg" style="width: 48%;">
+</div>

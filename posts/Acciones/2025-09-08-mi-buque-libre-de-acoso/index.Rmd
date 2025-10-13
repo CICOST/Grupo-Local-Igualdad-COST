@@ -1,0 +1,27 @@
+---
+title: "25Junio: Dia de la Gente del Mar - #Mi Buque Libre de Acoso"
+date: 2025-06-26
+output: distill::distill_article
+---
+
+<div style="text-align: justify;">
+El pasado jueves 26 de junio, con motivo de la celebración del 25J día de la gente de la mar, el Grupo Local de Igualdad del Centro Oceanográfico de Santander (GLI-COST) dependiente del Comité de Igualdad del CNIEO-CSIC (CI-CNIEO-CSIC) se sumó a la campaña internacional Mi buque Libre de Acoso promovida por la Organización Marítima Mundial – OMI con la celebración de una mesa redonda en la que participaron tres mujeres de la mar de perfiles profesionales distintos. Ana Giménez (trabajadora de la marina mercante), Mar de Mateo (pescadora) e Isabel Chapela (observadora científica pesquera).
+</div>
+
+<p style="text-align: center;">
+  <img src="foto1.jpeg" alt="Una imagen" style="width:250px;" />
+</p>
+
+<div style="text-align: justify;">
+Durante el desarrollo de la mesa se comentó como la masculinización del sector marítimo sigue dificultando el acceso de las mujeres a empleos que tradicionalmente han sido desarrollados por hombres. Las ponentes señalaron la complejidad de conciliar el trabajo con su vida familiar y personal. También compartieron situaciones complicadas vividas a bordo como son la falta de habitabilidad e intimidad en el caso de la pescadora y la observadora, así como el aislamiento sufrido por ésta última. Se nombró la necesidad a bordo de contar con un espacio de trabajo seguro libre de acoso tanto sexual como laboral y para lograrlo es vital que desde las empresas y las administraciones competentes se desarrollen programas de formación para prevenir su existencia desde la raíz. Las personas trabajadoras de la mar que embarcan necesitan contar con protocolos frente al acoso claros que apliquen las sanciones oportunas a aquellos/as que cometan infracciones.  Para ello entre otras cuestiones se señaló que en todos los barcos deberían existir mecanismos de comunicación con tierra fluidos e íntimos que permitan a la tripulación contactar con tierra en cualquier situación posible. La actividad finalizó con la proyección del documental “Mujeres de la mar” rodada íntegramente en Cantabria por la productora local Burbuja films bajo la dirección de la cántabra Marta Solano.
+ La campaña Mi buque Libre de Acoso lanzada por la OMI tiene como objetivo fundamental concienciar sobre la realidad del acoso en el mar, promoviendo políticas de tolerancia cero mediante el apoyo y la formación de la gente del mar para enfrentar estas situaciones y fomentando la denuncia segura a través de canales accesibles. Así uno de los anuncios más relevantes de la campaña logrado mediante modificación del Código Internacional de formación, titulación y guardia (STCW) es que a partir del 1 de enero de 2026 toda la gente del mar deberá recibir formación obligatoria en prevención del acoso, incluida la violencia y el acoso sexual.
+Desde el GLI-COST queremos agradecer a Ana Giménez, Mar Mateo e Isabel Chapela su participación en la mesa redonda.
+</div>
+
+ Más información- Enlaces relacionados:
+
+-[Campaña OMI Mi Buque libre de acoso](https://www.imo.org/es/About/Events/Paginas/Day-of-the-Seafarer-2025.aspx)
+
+-[Mujeres de la mar. Burbuja films](https://www.youtube.com/watch?v=qLhlEFEiqLQ)
+
+

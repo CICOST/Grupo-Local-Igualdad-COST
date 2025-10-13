@@ -1,0 +1,44 @@
+---
+title: "Documentos" 
+output: distill::distill_article
+encoding: UTF-8
+---
+
+```{r post-listing, echo=FALSE, results='asis'}
+# Ruta donde están los posts
+post_dirs <- list.dirs(".", recursive = FALSE)
+
+# Inicializar lista para guardar posts
+posts <- list()
+
+for (dir in post_dirs) {
+  index_file <- file.path(dir, "index.Rmd")
+  if (file.exists(index_file)) {
+    # Leer el YAML del archivo Rmd
+    lines <- readLines(index_file, encoding = "UTF-8")
+    yaml_start <- which(lines == "---")[1]
+    yaml_end <- which(lines == "---")[2]
+    yaml_lines <- lines[(yaml_start + 1):(yaml_end - 1)]
+
+    # Convertir YAML a lista
+    yaml <- yaml::yaml.load(paste(yaml_lines, collapse = "\n"))
+
+    # Guardar si tiene title y date
+    if (!is.null(yaml$title) && !is.null(yaml$date)) {
+      posts[[length(posts) + 1]] <- list(
+        title = yaml$title,
+        date = as.Date(yaml$date),
+        link = file.path(dir, "index.html")
+      )
+    }
+  }
+}
+
+# Ordenar por fecha descendente
+posts <- posts[order(sapply(posts, function(p) p$date), decreasing = TRUE)]
+
+# Mostrar en HTML
+for (post in posts) {
+  cat(sprintf("- [**%s**](%s) — %s  \n", post$title, post$link, format(post$date, "%d %B %Y")))
+}
+```

@@ -1,0 +1,16 @@
+---
+title: "Maria Jesús del Val Cordón"
+description: "(1911-1982)"
+date: 2025-08-10
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+<p style="text-align: center;">
+  <img src="foto1.jpg" alt="Una imagen" style="width:250px;" />
+</p>
+
+https://oceanicas.ieo.es/ma-jesus-del-val-cordon-la-primera-oceanografa-del-ieo-en-santander/
+
+
