@@ -1,0 +1,11 @@
+---
+title: "IV Plan para la Igualdad de género en la AGE"
+date: 2025-11-4
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+<https://saco.csic.es/s/eyEaP5edqcqkQpA>
+
+

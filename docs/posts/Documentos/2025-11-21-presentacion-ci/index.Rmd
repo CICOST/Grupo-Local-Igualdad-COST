@@ -1,0 +1,12 @@
+---
+title: "Presentacion del Comité de Igualdad IEO-CSIC"
+date: 2024-03-08
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+<https://saco.csic.es/s/HWcKQQ78Hp39M27>
+
+
+
