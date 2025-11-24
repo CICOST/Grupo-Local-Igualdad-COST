@@ -1,6 +1,5 @@
 ---
-title: "Maria Jesús del Val Cordón"
-description: "(1911-1982)"
+title: "Maria Jesús del Val Cordón (1911-1982)"
 date: 2025-08-10
 output:
   distill::distill_article:

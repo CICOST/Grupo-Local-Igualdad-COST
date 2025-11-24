@@ -8,7 +8,14 @@ output:
 
 Marian Blanco y Carmen Lobo presentan el Comité de Igualdad IEO-CSIC.
 
-<https://saco.csic.es/s/HWcKQQ78Hp39M27>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="foto1.png" style="width: 45%;">
+  <img src="foto2.png" style="width: 45%;">
+</div>
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="foto3.png" style="width: 45%;">
+  <img src="foto4.png" style="width: 45%;">
+</div>
 
 

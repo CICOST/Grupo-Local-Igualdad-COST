@@ -1,6 +1,5 @@
 ---
-title: "Josefa Sanz Echevarría"
-description: "(1889-1952)"
+title: "Josefa Sanz Echevarría (1889-1952)"
 date: 2025-08-27
 output:
   distill::distill_article:
@@ -31,7 +30,7 @@ En 1916 obtuvo otra plaza de preparadora en el Museo de Ciencias Naturales de Ma
 
 <div style="text-align: justify;">
 Dado su reconocimiento nacional fue solicitada para hacer colaboraciones entre otras con la Sociedad de Oceanografía de Guipúzcoa.
-En la última etapa de su vida estaría como Vicebibliotecaria y Bibliotecaria en la RSEHN, hasta 1953 que moriría en Madrid.
+En la última etapa de su vida estaría como Vicebibliotecaria y Bibliotecaria en la RSEHN, hasta 1952 que moriría en Madrid.
 Josefa Sanz Echevarría es otro referente a sacar a la luz e incluirlo en la historia de la biología marina española, por sus aportaciones en el estudio, taxonomía e ilustración de peces, en una época en la que muy pocas mujeres podían acceder a la educación y los hombres eran los únicos visibles en los ámbitos científicos. Además es admirable cómo desde su formación autodidacta llegó a un reconocimiento nacional con numerosas publicaciones científicas.  
 </div>
 

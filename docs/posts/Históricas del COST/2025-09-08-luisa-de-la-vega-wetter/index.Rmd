@@ -1,6 +1,5 @@
 ---
-title: "Luisa de la Vega Wetter"
-description: "(1862-1944)"
+title: "Luisa de la Vega Wetter (1862-1944)"
 date: 2025-09-26
 output:
   distill::distill_article:
