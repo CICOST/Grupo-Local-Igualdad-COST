@@ -6,6 +6,6 @@ output:
     self_contained: false
 ---
 
-<https://saco.csic.es/s/eyEaP5edqcqkQpA>
+<https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22252>
 
 
