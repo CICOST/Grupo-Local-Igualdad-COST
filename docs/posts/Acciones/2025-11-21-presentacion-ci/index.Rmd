@@ -1,5 +1,5 @@
 ---
-title: "Presentacion del Comité de Igualdad IEO-CSIC"
+title: "Presentación del Comité de Igualdad IEO-CSIC"
 date: 2024-03-08
 output:
   distill::distill_article:
