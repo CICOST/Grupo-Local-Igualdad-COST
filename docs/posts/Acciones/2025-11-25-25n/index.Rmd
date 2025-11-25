@@ -1,0 +1,21 @@
+---
+title: "25N 2025: Día Internacional para la Eliminación de la Violencia contra las Mujeres"
+date: 2025-11-25
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+<div style="text-align: justify;">
+El personal del Centro Oceanográfico de Santander muestra su repulsa ante la violencia de género que suma 39 víctimas mortales dejando 20 niños y niñas huérfanas en 2025 en nuestro país. 
+
+En nuestro entorno nuestra memoria se dirije a la dolorosa e inaceptable ausencia de  Mª del Carmen Fernández Vázquez, trabajadora del CSIC que desapareció a bordo del B/O García del Cid mientras trabajaba en septiembre de 2023, habiendo presentado denuncia por violación años antes.
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="foto1.jpeg" style="width: 32%;">
+  <img src="foto2.jpeg" style="width: 32%;">
+  <img src="foto3.jpeg" style="width: 32%;">
+</div>
+
+
