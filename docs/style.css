@@ -23,4 +23,8 @@ body {
   padding: 1rem 2rem;
   border-radius: 4px;        /* opcional, para esquinas redondeadas */
   display: inline-block;     /* para que el fondo se ajuste al texto */
+}  
+  .post-date {
+  font-size: 0.8em;
+  color: #666;
 }

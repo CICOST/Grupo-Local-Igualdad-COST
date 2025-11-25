@@ -1,5 +1,5 @@
 ---
-title: "25Junio: Dia de la Gente del Mar - #Mi Buque Libre de Acoso"
+title: "25Junio: Día de la Gente del Mar - #Mi Buque Libre de Acoso"
 date: 2025-06-26
 output: distill::distill_article
 ---
