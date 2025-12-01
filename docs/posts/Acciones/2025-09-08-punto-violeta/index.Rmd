@@ -8,5 +8,5 @@ output: distill::distill_article
 </p>
 
 <div style="text-align: justify;">
-Se coloca un punto violeta en el Centro Oceanográfico de Santander. Un espacio para compartir píldoras de información feminista en pro de la igualdad de trato en las instituciones. Por un IEO plural y una ciencia accesible, inclusiva, crítica, con enfoque de género y respetuosa con el medio ambiente y los derechos humanos.
+En marzo de 2021 con motivo del 8M se coloca un punto violeta en el Centro Oceanográfico de Santander. Un espacio para compartir píldoras de información feminista en pro de la igualdad de trato en las instituciones. Por un IEO plural y una ciencia accesible, inclusiva, crítica, con enfoque de género y respetuosa con el medio ambiente y los derechos humanos.
 </div>

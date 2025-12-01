@@ -9,7 +9,7 @@ output: distill::distill_article
 </div>
 
 <div style="text-align: justify;">
-Se habilita un Buzón de Igualdad en el Centro Oceanográfico de Santander (San Martín y el Bocal) al igual que en otros centros oceanográficos. La idea es compartir, de forma anónima, testimonios o reflexiones sobre situaciones de desigualdad de género que se hayan vivido o presenciado, así como ideas y sugerencias para su erradicación. 
+En julio de 2025 se habilita un Buzón de Igualdad en el Centro Oceanográfico de Santander (San Martín y el Bocal) al igual que en otros centros oceanográficos. La idea es compartir, de forma anónima, testimonios o reflexiones sobre situaciones de desigualdad de género que se hayan vivido o presenciado, así como ideas y sugerencias para su erradicación. 
 
 ¿Qué se puede introducir?
 

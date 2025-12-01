@@ -6,7 +6,7 @@ output:
     self_contained: false
 ---
 <div style="text-align: justify;">
-Marian Blanco (representante del COST en el Comité de Igualdad) y Carmen Lobo (sustituta en el CI) organizan la presentación del nuevo Comité de Igualdad con motivo del 8 de marzo, donde exponen la composición (1 persona por Centro Oceanográfico, sus funciones, objetivos y los grupos de trabajo creados para avanzar en pro de la igualdad en nuestro organismo.
+En 2024, Marian Blanco (representante del COST en el Comité de Igualdad) y Carmen Lobo (sustituta en el CI) organizan la presentación del nuevo Comité de Igualdad con motivo del 8M, donde exponen la composición (1 persona por Centro Oceanográfico, sus funciones, objetivos y los grupos de trabajo creados para avanzar en pro de la igualdad en nuestro organismo.
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">

@@ -1,6 +1,6 @@
 ---
 title: "25N 2025: Día Internacional para la Eliminación de la Violencia contra las Mujeres"
-date: 2025-11-25
+date: 2025-11-25 
 output:
   distill::distill_article:
     self_contained: false
