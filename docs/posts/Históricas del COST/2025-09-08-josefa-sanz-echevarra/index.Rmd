@@ -1,5 +1,5 @@
 ---
-title: "Josefa Sanz Echevarría (1889-1952)"
+title: "Josefa Sanz Echeverría (1889-1952)"
 date: 2025-08-27
 output:
   distill::distill_article:
@@ -12,7 +12,7 @@ output:
 <div style="text-align: justify;">
 Nació en Guetaría en 1889.
 De formación autodidacta, tuvo gran vocación por la historia natural marina. 
-Se especializó en la recolección y conservación de ejemplares marinos, concretamente en la taxidermia de peces y en su ilustración. 
+Se especializó en la recolección y conservación de ejemplares marinos, concretamente en el estudio anatómico y taxidermia de peces. 
 Estuvo contratada en la Estación de Biología Marina de Santander durante 9 años.
 </div>
 
@@ -31,7 +31,7 @@ En 1916 obtuvo otra plaza de preparadora en el Museo de Ciencias Naturales de Ma
 <div style="text-align: justify;">
 Dado su reconocimiento nacional fue solicitada para hacer colaboraciones entre otras con la Sociedad de Oceanografía de Guipúzcoa.
 En la última etapa de su vida estaría como Vicebibliotecaria y Bibliotecaria en la RSEHN, hasta 1952 que moriría en Madrid.
-Josefa Sanz Echevarría es otro referente a sacar a la luz e incluirlo en la historia de la biología marina española, por sus aportaciones en el estudio, taxonomía e ilustración de peces, en una época en la que muy pocas mujeres podían acceder a la educación y los hombres eran los únicos visibles en los ámbitos científicos. Además es admirable cómo desde su formación autodidacta llegó a un reconocimiento nacional con numerosas publicaciones científicas.  
+Josefa Sanz Echevarría es otro referente a sacar a la luz e incluirlo en la historia de la biología marina española, por sus aportaciones en el estudio y disección y taxidermia de peces, en una época en la que muy pocas mujeres podían acceder a la educación y los hombres eran los únicos visibles en los ámbitos científicos. Además es admirable cómo desde su formación autodidacta llegó a un reconocimiento nacional con numerosas publicaciones científicas.  
 </div>
 
 Fuentes:
