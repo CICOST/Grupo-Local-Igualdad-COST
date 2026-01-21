@@ -1,0 +1,13 @@
+---
+title: "Mujer y Acuicultura"
+date: 2026-01-20
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Con motivo del Día de la Acuicultura (30 de noviembre), dentro del proyecto CAMBIA (Cultivo y aprovechamiento de invertebrados marinos en sistemas acuícolas de bajo impacto ambiental), se ha elaborado este dossier homónimo donde mujeres de diversos perfiles profesionales relacionados con la acuicultura exponen su formación y profesión visibilizando el papel de la mujer en este importante sector.
+
+<https://saco.csic.es/s/bjJ7W8bKcapNHjC>
+
+
