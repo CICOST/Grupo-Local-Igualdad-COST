@@ -6,6 +6,9 @@ output:
     self_contained: false
 ---
 
+En marzo de 2022 el CSIC aprobó el III Plan de Igualdad entre mujeres y hombres del CSIC.
+En diciembre de 2025 se presenta la III Evaluación del mismo.
+
 <https://www.csic.es/es/el-csic/ciencia-en-igualdad/comision-delegada-de-igualdad/planes-de-igualdad-del-csic>
 
 
