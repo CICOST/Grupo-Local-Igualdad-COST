@@ -1,0 +1,25 @@
+---
+title: "8M 2026: Día Internacional de las Mujeres"
+date: 2026-03-8
+output:
+  
+  distill::distill_article:
+    self_contained: false
+---
+
+
+<div style="text-align: justify;">
+Con motivo del 8M realizamos una reunión abierta presencial y online en la que:
+
+- expusimos una breve presentación del Comité de Igualdad del IEO
+
+- comentamos las Medidas de Conciliación existentes en la actualidad en nuestro organismo, que podeis encontrar aquí  <https://saco.csic.es/s/2nLrMtbCHJFkDTp>
+
+- realizamos un resumen de las actividades realizadas hasta la fecha (espacio web de igualdad, reunión centros CSIC Cantabria, disgnóstico imagen de nuestro centro, etc.) y seguimiento de las propuestas pendientes del año pasado (sala bienestar y grifo en baños, visibilidad del espacio web de igualdad, charlas, etc)
+
+- comentamos propuestas futuras (ciclo charlas de Igualdad, etc.)
+
+A la reunión asistimos 6 personas presencial y 5 personas conectadas online. En total 9 mujeres y 2 hombres.
+</div>
+
+
